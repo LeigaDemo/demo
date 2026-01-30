@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +14,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dongjinghk-stack"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LeigaDemo/demo.git",
+    "accountId": "850ab541-e535-4ed5-a4d7-7ecb0d95fc3b"
+  }
+}]]></component>
+  <component name="LigaCommitTemplateManager">
+    <option name="hasInitDefault" value="true" />
+    <option name="hasInitDefaultSubtask" value="true" />
+    <option name="templateList">
+      <list>
+        <LigaCommitTemplate>
+          <option name="content" value="fix ${id} ${summary}" />
+          <option name="name" value="Leiga-bugfix" />
+        </LigaCommitTemplate>
+        <LigaCommitTemplate>
+          <option name="content" value="feature" />
+          <option name="name" value="Leiga-feature common" />
+        </LigaCommitTemplate>
+        <LigaCommitTemplate>
+          <option name="content" value="feature ${id} ${summary}" />
+          <option name="name" value="Leiga-feature finished" />
+        </LigaCommitTemplate>
+        <LigaCommitTemplate>
+          <option name="content" value="subtask:${subtask} issue: ${summary} ${done}" />
+          <option name="name" value="Leiga-subtask finished" />
+        </LigaCommitTemplate>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="38y6Zqab491N9aMXLFhxDPQh2IT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +64,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/jingdong/Downloads/Github/demo",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -73,11 +112,25 @@
       <option name="presentableId" value="Default" />
       <updated>1769759521968</updated>
       <workItem from="1769759523034" duration="15000" />
+      <workItem from="1769759834698" duration="144000" />
     </task>
+    <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+      <option name="closed" value="true" />
+      <created>1769759943399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769759943399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
