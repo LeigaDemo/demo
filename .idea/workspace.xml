@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-6329] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dongjinghk-stack"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dongjinghk-stack&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LeigaDemo/demo.git",
-    "accountId": "850ab541-e535-4ed5-a4d7-7ecb0d95fc3b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeigaDemo/demo.git&quot;,
+    &quot;accountId&quot;: &quot;850ab541-e535-4ed5-a4d7-7ecb0d95fc3b&quot;
   }
-}]]></component>
+}</component>
   <component name="LigaCommitTemplateManager">
     <option name="hasInitDefault" value="true" />
     <option name="hasInitDefaultSubtask" value="true" />
@@ -59,22 +60,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/jingdong/Downloads/Github/demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jingdong/Downloads/Github/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="demo" />
@@ -118,6 +119,7 @@
       <updated>1769759521968</updated>
       <workItem from="1769759523034" duration="15000" />
       <workItem from="1769759834698" duration="5023000" />
+      <workItem from="1770796767004" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -175,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769761991520</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario">
+      <option name="closed" value="true" />
+      <created>1770796806108</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770796806108</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
     <MESSAGE value="fix [DEVEL-6329] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-6329] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <MESSAGE value="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
