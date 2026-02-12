@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-6500] 2/12 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -140,7 +140,7 @@
       <workItem from="1769759834698" duration="5023000" />
       <workItem from="1770796767004" duration="3539000" />
       <workItem from="1770865280574" duration="28000" />
-      <workItem from="1770865566332" duration="1018000" />
+      <workItem from="1770865566332" duration="4850000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -270,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770866210501</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feature [DEVEL-6500] 2/12 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1770866609878</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1770866609878</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +300,8 @@
     <MESSAGE value="fix [DEVEL-6329] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
     <MESSAGE value="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario" />
     <MESSAGE value="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
+    <MESSAGE value="feature [DEVEL-6500] 2/12 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-6500] 2/12 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
