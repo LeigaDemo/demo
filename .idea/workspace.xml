@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario" />
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,22 +65,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "DEVEL-6471-NewCode",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/jingdong/Downloads/Github/demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;DEVEL-6471-NewCode&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jingdong/Downloads/Github/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="demo" />
@@ -121,7 +124,8 @@
       <updated>1769759521968</updated>
       <workItem from="1769759523034" duration="15000" />
       <workItem from="1769759834698" duration="5023000" />
-      <workItem from="1770796767004" duration="1205000" />
+      <workItem from="1770796767004" duration="3539000" />
+      <workItem from="1770865280574" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -219,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770797866664</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1770798260495</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1770798260495</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +252,8 @@
     <MESSAGE value="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
     <MESSAGE value="fix [DEVEL-6329] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
     <MESSAGE value="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario" />
+    <MESSAGE value="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
