@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;dongjinghk-stack&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/LeigaDemo/demo.git&quot;,
-    &quot;accountId&quot;: &quot;850ab541-e535-4ed5-a4d7-7ecb0d95fc3b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LeigaDemo/demo.git",
+    "accountId": "e039f1ee-5937-46ed-83dd-e8d6f12fb065"
   }
-}</component>
+}]]></component>
   <component name="LigaCommitTemplateManager">
     <option name="hasInitDefault" value="true" />
     <option name="hasInitDefaultSubtask" value="true" />
@@ -126,7 +126,7 @@
       <workItem from="1769759834698" duration="5023000" />
       <workItem from="1770796767004" duration="3539000" />
       <workItem from="1770865280574" duration="28000" />
-      <workItem from="1770865566332" duration="31000" />
+      <workItem from="1770865566332" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -232,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770798260495</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1770865606331</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1770865606331</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1770865646469</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1770865646469</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
