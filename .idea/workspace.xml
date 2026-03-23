@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-6751] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -27,22 +27,22 @@
     &quot;assignee&quot;: &quot;dongjinghk-stack&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LeigaDemo/demo.git",
-    "accountId": "e039f1ee-5937-46ed-83dd-e8d6f12fb065"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeigaDemo/demo.git&quot;,
+    &quot;accountId&quot;: &quot;850ab541-e535-4ed5-a4d7-7ecb0d95fc3b&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "LeigaDemo",
-    "repository": "demo"
+    &quot;owner&quot;: &quot;LeigaDemo&quot;,
+    &quot;repository&quot;: &quot;demo&quot;
   }
-}]]></component>
+}</component>
   <component name="LigaCommitTemplateManager">
     <option name="hasInitDefault" value="true" />
     <option name="hasInitDefaultSubtask" value="true" />
@@ -82,7 +82,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;DEVEL-6471-NewCode&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on DEVEL-6471-NewCode&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jingdong/Downloads/Github/demo&quot;,
@@ -123,8 +123,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26574.90" />
+        <option value="bundled-python-sdk-c1fac28bca04-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26574.90" />
       </set>
     </attachedChunks>
   </component>
@@ -152,10 +152,7 @@
       <workItem from="1773220769069" duration="1054000" />
       <workItem from="1773365363385" duration="1027000" />
       <workItem from="1773541060064" duration="128000" />
-      <workItem from="1774243484945" duration="2924000" />
-      <workItem from="1774336789178" duration="1262000" />
-      <workItem from="1774535836698" duration="56000" />
-      <workItem from="1774536049868" duration="31000" />
+      <workItem from="1774243484945" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -381,31 +378,7 @@
       <option name="project" value="LOCAL" />
       <updated>1773365421699</updated>
     </task>
-    <task id="LOCAL-00029" summary="fix [DEVEL-6751] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1774243582234</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1774243582234</updated>
-    </task>
-    <task id="LOCAL-00030" summary="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1774249843804</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1774249843804</updated>
-    </task>
-    <task id="LOCAL-00031" summary="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1774337540384</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1774337540384</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,8 +406,7 @@
     <MESSAGE value="fix [DEVEL-6401] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
     <MESSAGE value="fix [DEVEL-6676] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-6751] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
-    <MESSAGE value="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-6751] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
