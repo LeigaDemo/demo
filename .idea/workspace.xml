@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
