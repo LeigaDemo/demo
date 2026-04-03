@@ -9,7 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.asdf
 
 
-# Press the green button in the gutter to run the ascript. testing April 1staa
+# Press the green button in the gutter to run the ascript. testing April 1stbaasdf
 if __name__ == '__main__':
     print_hi('PyCharm')
 
