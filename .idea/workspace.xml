@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +167,8 @@
       <workItem from="1774936983517" duration="2423000" />
       <workItem from="1775004088802" duration="3068000" />
       <workItem from="1775201931494" duration="1107000" />
-      <workItem from="1775632961215" duration="390000" />
+      <workItem from="1775632961215" duration="915000" />
+      <workItem from="1775634400981" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -528,7 +530,31 @@
       <option name="project" value="LOCAL" />
       <updated>1775633024565</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633366367</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633366367</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633378560</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633378560</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633400275</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633400275</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
