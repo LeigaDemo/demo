@@ -166,7 +166,7 @@
       <workItem from="1774936983517" duration="2423000" />
       <workItem from="1775004088802" duration="3068000" />
       <workItem from="1775201931494" duration="1107000" />
-      <workItem from="1775632961215" duration="49000" />
+      <workItem from="1775632961215" duration="390000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -520,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775632988194</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633024565</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633024565</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
