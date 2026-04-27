@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,27 +21,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;dongjinghk-stack&quot;
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": []
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeigaDemo/demo.git&quot;,
+    &quot;accountId&quot;: &quot;850ab541-e535-4ed5-a4d7-7ecb0d95fc3b&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;LeigaDemo&quot;,
+    &quot;repository&quot;: &quot;demo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LeigaDemo/demo.git",
-    "accountId": "e039f1ee-5937-46ed-83dd-e8d6f12fb065"
-  },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
-    },
-    "owner": "LeigaDemo",
-    "repository": "demo"
-  }
-}]]></component>
   <component name="LigaCommitTemplateManager">
     <option name="hasInitDefault" value="true" />
     <option name="hasInitDefaultSubtask" value="true" />
@@ -82,7 +81,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;DEVEL-6471-NewCode&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#3 on DEVEL-6471-NewCode&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jingdong/Downloads/Github/demo&quot;,
@@ -123,8 +122,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26574.90" />
+        <option value="bundled-python-sdk-c1fac28bca04-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26574.90" />
       </set>
     </attachedChunks>
   </component>
@@ -155,15 +154,13 @@
       <workItem from="1774243484945" duration="2924000" />
       <workItem from="1774336789178" duration="1262000" />
       <workItem from="1774535836698" duration="56000" />
-      <workItem from="1774536049868" duration="31000" />
-    </task>
-    <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769759943399</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1769759943399</updated>
+      <workItem from="1774536049868" duration="230000" />
+      <workItem from="1774936983517" duration="2423000" />
+      <workItem from="1775004088802" duration="3068000" />
+      <workItem from="1775201931494" duration="1107000" />
+      <workItem from="1775632961215" duration="915000" />
+      <workItem from="1775634400981" duration="1286000" />
+      <workItem from="1777268814697" duration="201000" />
     </task>
     <task id="LOCAL-00002" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -405,7 +402,159 @@
       <option name="project" value="LOCAL" />
       <updated>1774337540384</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1774536094161</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1774536094161</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1774937226882</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1774937226882</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1774937361170</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1774937361170</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix [DEVEL-6921] Test Case Failed: [Demo] Create new Lead and Verify - Positive">
+      <option name="closed" value="true" />
+      <created>1774937415683</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1774937415683</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix [DEVEL-6921] Test Case Failed: [Demo] Create new Lead and Verify - Positive">
+      <option name="closed" value="true" />
+      <created>1774937585404</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1774937585404</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix [DEVEL-7041] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1774939227027</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1774939227027</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775006095960</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1775006095960</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775009145946</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1775009145946</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775202003958</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1775202003958</updated>
+    </task>
+    <task id="LOCAL-00041" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775202257448</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1775202257448</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775202305728</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1775202305728</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775202402073</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1775202402073</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775632988194</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1775632988194</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633024565</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633024565</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633366367</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633366367</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633378560</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633378560</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1775633400275</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1775633400275</updated>
+    </task>
+    <task id="LOCAL-00049" summary="fix [DEVEL-7145] Test Case Failed: [ES-MX] Product Comparison &amp; Validate the Shopping Cart Pricing">
+      <option name="closed" value="true" />
+      <created>1775638344048</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1775638344048</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order">
+      <option name="closed" value="true" />
+      <created>1777268960110</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1777268960110</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +583,12 @@
     <MESSAGE value="fix [DEVEL-6676] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-6751] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
+    <MESSAGE value="fix [DEVEL-6921] Test Case Failed: [Demo] Create new Lead and Verify - Positive" />
+    <MESSAGE value="fix [DEVEL-7041] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
+    <MESSAGE value="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
+    <MESSAGE value="fix [DEVEL-7145] Test Case Failed: [ES-MX] Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <MESSAGE value="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
