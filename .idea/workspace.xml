@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7145] Test Case Failed: [ES-MX] Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,17 +23,9 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GitHubPullRequestState">{
-  &quot;prStates&quot;: [
-    {
-      &quot;id&quot;: {
-        &quot;id&quot;: &quot;PR_kwDOREs7FM7O1wyt&quot;,
-        &quot;number&quot;: 3
-      },
-      &quot;lastSeen&quot;: 1775008958358
-    }
-  ]
-}</component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": []
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/LeigaDemo/demo.git&quot;,
@@ -166,14 +160,7 @@
       <workItem from="1775201931494" duration="1107000" />
       <workItem from="1775632961215" duration="915000" />
       <workItem from="1775634400981" duration="1286000" />
-    </task>
-    <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769759943399</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1769759943399</updated>
+      <workItem from="1777268814697" duration="201000" />
     </task>
     <task id="LOCAL-00002" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -559,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775638344048</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order">
+      <option name="closed" value="true" />
+      <created>1777268960110</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1777268960110</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +587,8 @@
     <MESSAGE value="fix [DEVEL-7041] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-7145] Test Case Failed: [ES-MX] Product Comparison &amp; Validate the Shopping Cart Pricing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7145] Test Case Failed: [ES-MX] Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <MESSAGE value="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
