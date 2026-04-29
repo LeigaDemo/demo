@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,23 +166,7 @@
       <workItem from="1775632961215" duration="915000" />
       <workItem from="1775634400981" duration="1286000" />
       <workItem from="1777268814697" duration="1436000" />
-      <workItem from="1777461702601" duration="22000" />
-    </task>
-    <task id="LOCAL-00003" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769760009077</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1769760009077</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769760037319</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1769760037319</updated>
+      <workItem from="1777461702601" duration="80000" />
     </task>
     <task id="LOCAL-00005" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -561,7 +544,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777269033216</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order">
+      <option name="closed" value="true" />
+      <created>1777461735256</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1777461735256</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order">
+      <option name="closed" value="true" />
+      <created>1777461764074</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1777461764074</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,6 +593,7 @@
     <MESSAGE value="fix [DEVEL-7041] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-7145] Test Case Failed: [ES-MX] Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <MESSAGE value="fix [DEVEL-7356] Test Case Failed: Test Case #1623" />
     <MESSAGE value="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order" />
     <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order" />
   </component>
