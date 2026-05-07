@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7356] Test Case Failed: Test Case #1623">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,23 +168,7 @@
       <workItem from="1777268814697" duration="1436000" />
       <workItem from="1777461702601" duration="759000" />
       <workItem from="1778039775384" duration="2081000" />
-      <workItem from="1778140217800" duration="851000" />
-    </task>
-    <task id="LOCAL-00006" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769760112446</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1769760112446</updated>
-    </task>
-    <task id="LOCAL-00007" summary="fix [DEVEL-6329] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769761991520</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1769761991520</updated>
+      <workItem from="1778140217800" duration="944000" />
     </task>
     <task id="LOCAL-00008" summary="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario">
       <option name="closed" value="true" />
@@ -563,7 +546,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777461805517</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="fix [DEVEL-7356] Test Case Failed: Test Case #1623">
+      <option name="closed" value="true" />
+      <created>1778141763644</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1778141763644</updated>
+    </task>
+    <task id="LOCAL-00056" summary="fix [DEVEL-7356] Test Case Failed: Test Case #1623">
+      <option name="closed" value="true" />
+      <created>1778141787280</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1778141787280</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
