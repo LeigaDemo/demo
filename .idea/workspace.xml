@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,15 +172,7 @@
       <workItem from="1778480803397" duration="2739000" />
       <workItem from="1778568286169" duration="1224000" />
       <workItem from="1778573848255" duration="640000" />
-      <workItem from="1778634840414" duration="117000" />
-    </task>
-    <task id="LOCAL-00015" summary="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
-      <option name="closed" value="true" />
-      <created>1770865646469</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1770865646469</updated>
+      <workItem from="1778634840414" duration="212000" />
     </task>
     <task id="LOCAL-00016" summary="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
       <option name="closed" value="true" />
@@ -567,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778486487771</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+      <option name="closed" value="true" />
+      <created>1778634969374</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1778634969374</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
