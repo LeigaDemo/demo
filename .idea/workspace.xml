@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7357] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -174,15 +174,8 @@
       <workItem from="1778568286169" duration="1224000" />
       <workItem from="1778573848255" duration="640000" />
       <workItem from="1778634840414" duration="500000" />
-      <workItem from="1778638119340" duration="197000" />
-    </task>
-    <task id="LOCAL-00017" summary="feature [DEVEL-6500] 2/12 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
-      <option name="closed" value="true" />
-      <created>1770866609878</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1770866609878</updated>
+      <workItem from="1778638119340" duration="3393000" />
+      <workItem from="1778754516734" duration="91000" />
     </task>
     <task id="LOCAL-00018" summary="feature [DEVEL-6510] 2/12 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island, we need to apply a delivery fee of $50.[DC_Story]">
       <option name="closed" value="true" />
@@ -568,7 +561,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778635079659</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+      <option name="closed" value="true" />
+      <created>1778638328979</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1778638328979</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,9 +605,9 @@
     <MESSAGE value="fix [DEVEL-7308] Test Case Failed: [AR] STEP 1: Create Sales Order" />
     <MESSAGE value="fix [DEVEL-7356] Test Case Failed: Test Case #1623" />
     <MESSAGE value="fix [DEVEL-7309] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
-    <MESSAGE value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
     <MESSAGE value="fix [DEVEL-7357] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7357] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
+    <MESSAGE value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
