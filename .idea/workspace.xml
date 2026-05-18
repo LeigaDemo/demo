@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -175,15 +175,8 @@
       <workItem from="1778573848255" duration="640000" />
       <workItem from="1778634840414" duration="500000" />
       <workItem from="1778638119340" duration="3393000" />
-      <workItem from="1778754516734" duration="91000" />
-    </task>
-    <task id="LOCAL-00018" summary="feature [DEVEL-6510] 2/12 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island, we need to apply a delivery fee of $50.[DC_Story]">
-      <option name="closed" value="true" />
-      <created>1770881061925</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1770881061925</updated>
+      <workItem from="1778754516734" duration="1724000" />
+      <workItem from="1779063322068" duration="281000" />
     </task>
     <task id="LOCAL-00019" summary="fix [DEVEL-6648] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <option name="closed" value="true" />
@@ -569,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778638328979</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1778754635076</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1778754635076</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +608,8 @@
     <MESSAGE value="fix [DEVEL-7309] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-7357] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <MESSAGE value="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
