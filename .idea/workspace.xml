@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,15 +175,7 @@
       <workItem from="1778634840414" duration="500000" />
       <workItem from="1778638119340" duration="3393000" />
       <workItem from="1778754516734" duration="1724000" />
-      <workItem from="1779063322068" duration="281000" />
-    </task>
-    <task id="LOCAL-00019" summary="fix [DEVEL-6648] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1771923100698</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1771923100698</updated>
+      <workItem from="1779063322068" duration="352000" />
     </task>
     <task id="LOCAL-00020" summary="fix [DEVEL-6648] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <option name="closed" value="true" />
@@ -570,7 +561,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778754635076</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+      <option name="closed" value="true" />
+      <created>1779063639406</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1779063639407</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,9 +606,9 @@
     <MESSAGE value="fix [DEVEL-7356] Test Case Failed: Test Case #1623" />
     <MESSAGE value="fix [DEVEL-7309] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-7357] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
-    <MESSAGE value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
     <MESSAGE value="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]" />
+    <MESSAGE value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
