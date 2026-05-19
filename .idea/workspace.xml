@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7551] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -176,15 +176,8 @@
       <workItem from="1778634840414" duration="500000" />
       <workItem from="1778638119340" duration="3393000" />
       <workItem from="1778754516734" duration="1724000" />
-      <workItem from="1779063322068" duration="1895000" />
-    </task>
-    <task id="LOCAL-00022" summary="fix [DEVEL-6401] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1772166730637</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1772166730637</updated>
+      <workItem from="1779063322068" duration="2540000" />
+      <workItem from="1779177026512" duration="778000" />
     </task>
     <task id="LOCAL-00023" summary="fix [DEVEL-6401] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -570,7 +563,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779063773335</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="fix [DEVEL-7551] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1779068068217</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1779068068217</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +610,8 @@
     <MESSAGE value="fix [DEVEL-7357] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="feature [DEVEL-7512] 7/15 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong or Kowloon, we need to apply a delivery fee of $50.[DC_Story]" />
     <MESSAGE value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7450] Test Case Failed: [FR] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing" />
+    <MESSAGE value="fix [DEVEL-7551] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7551] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
