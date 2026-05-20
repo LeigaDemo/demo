@@ -177,15 +177,8 @@
       <workItem from="1778638119340" duration="3393000" />
       <workItem from="1778754516734" duration="1724000" />
       <workItem from="1779063322068" duration="2540000" />
-      <workItem from="1779177026512" duration="778000" />
-    </task>
-    <task id="LOCAL-00023" summary="fix [DEVEL-6401] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1772166906003</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1772166906003</updated>
+      <workItem from="1779177026512" duration="1424000" />
+      <workItem from="1779242172737" duration="1794000" />
     </task>
     <task id="LOCAL-00024" summary="fix [DEVEL-6676] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <option name="closed" value="true" />
@@ -571,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779068068217</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="fix [DEVEL-7551] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1779183884045</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1779183884046</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
