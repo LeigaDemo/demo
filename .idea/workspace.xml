@@ -178,15 +178,8 @@
       <workItem from="1778754516734" duration="1724000" />
       <workItem from="1779063322068" duration="2540000" />
       <workItem from="1779177026512" duration="1424000" />
-      <workItem from="1779242172737" duration="1794000" />
-    </task>
-    <task id="LOCAL-00024" summary="fix [DEVEL-6676] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1772181641096</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1772181641096</updated>
+      <workItem from="1779242172737" duration="2423000" />
+      <workItem from="1779331036794" duration="634000" />
     </task>
     <task id="LOCAL-00025" summary="fix [DEVEL-6676] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <option name="closed" value="true" />
@@ -572,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779183884046</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="fix [DEVEL-7551] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
+      <option name="closed" value="true" />
+      <created>1779247021101</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1779247021102</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
