@@ -192,15 +192,7 @@
       <workItem from="1783492856124" duration="871000" />
       <workItem from="1784001925148" duration="9354000" />
       <workItem from="1784791946011" duration="1237000" />
-      <workItem from="1785124457283" duration="1469000" />
-    </task>
-    <task id="LOCAL-00043" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1775202402073</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1775202402073</updated>
+      <workItem from="1785124457283" duration="3981000" />
     </task>
     <task id="LOCAL-00044" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <option name="closed" value="true" />
@@ -586,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785126101898</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="fix [DEVEL-7497] [NMG] Premium article entitlement across app and web">
+      <option name="closed" value="true" />
+      <created>1785126463301</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1785126463301</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
