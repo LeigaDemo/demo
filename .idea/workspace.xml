@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-8376] 7/14 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="fix [DEVEL-7497] [NMG] Premium article entitlement across app and web">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -192,15 +192,7 @@
       <workItem from="1783492856124" duration="871000" />
       <workItem from="1784001925148" duration="9354000" />
       <workItem from="1784791946011" duration="1237000" />
-      <workItem from="1785124457283" duration="1092000" />
-    </task>
-    <task id="LOCAL-00042" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1775202305728</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1775202305728</updated>
+      <workItem from="1785124457283" duration="1469000" />
     </task>
     <task id="LOCAL-00043" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <option name="closed" value="true" />
@@ -586,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784015660529</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="fix [DEVEL-7497] [NMG] Premium article entitlement across app and web">
+      <option name="closed" value="true" />
+      <created>1785126101898</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1785126101898</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
     <MESSAGE value="feature [DEVEL-6500] 2/12 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]" />
     <MESSAGE value="feature [DEVEL-6510] 2/12 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island, we need to apply a delivery fee of $50.[DC_Story]" />
     <MESSAGE value="fix [DEVEL-6648] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
@@ -629,7 +628,8 @@
     <MESSAGE value="fix [DEVEL-8116] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="feature [DEVEL-8093] [NMG] Personalised home feed for logged-in readers" />
     <MESSAGE value="feature [DEVEL-8376] 7/14 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-8376] 7/14 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]" />
+    <MESSAGE value="fix [DEVEL-7497] [NMG] Premium article entitlement across app and web" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix [DEVEL-7497] [NMG] Premium article entitlement across app and web" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
