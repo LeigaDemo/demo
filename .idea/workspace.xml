@@ -27,22 +27,22 @@
     &quot;assignee&quot;: &quot;dongjinghk-stack&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LeigaDemo/demo.git",
-    "accountId": "e039f1ee-5937-46ed-83dd-e8d6f12fb065"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeigaDemo/demo.git&quot;,
+    &quot;accountId&quot;: &quot;e039f1ee-5937-46ed-83dd-e8d6f12fb065&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "LeigaDemo",
-    "repository": "demo"
+    &quot;owner&quot;: &quot;LeigaDemo&quot;,
+    &quot;repository&quot;: &quot;demo&quot;
   }
-}]]></component>
+}</component>
   <component name="LigaCommitTemplateManager">
     <option name="hasInitDefault" value="true" />
     <option name="hasInitDefaultSubtask" value="true" />
