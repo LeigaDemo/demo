@@ -58,3 +58,7 @@ def smoke() -> None:
 
 if __name__ == "__main__":
     smoke()
+
+# sync_probe: refresh Leiga Commit Log for [DEVEL-8667]
+
+# leiga_mr_ahead: DEVEL-8667 can merge into main
