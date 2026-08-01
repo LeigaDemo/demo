@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-8667] [NMG] Real-time traffic incident alerts with rerouting">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,15 +193,7 @@
       <workItem from="1784001925148" duration="9354000" />
       <workItem from="1784791946011" duration="1237000" />
       <workItem from="1785124457283" duration="5887000" />
-      <workItem from="1785587671646" duration="183000" />
-    </task>
-    <task id="LOCAL-00047" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
-      <option name="closed" value="true" />
-      <created>1775633378560</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1775633378560</updated>
+      <workItem from="1785587671646" duration="742000" />
     </task>
     <task id="LOCAL-00048" summary="fix [DEVEL-7065] Test Case Failed: [Demo] Create new Lead and Verify - Negative">
       <option name="closed" value="true" />
@@ -586,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785587833374</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="feature [DEVEL-8667] [NMG] Real-time traffic incident alerts with rerouting">
+      <option name="closed" value="true" />
+      <created>1785587862123</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1785587862123</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
