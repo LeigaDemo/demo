@@ -58,3 +58,5 @@ def smoke() -> None:
 
 if __name__ == "__main__":
     smoke()
+
+# leiga_plugins_refresh: DEVEL-8186 @ 2026-08-04T02:20Z
