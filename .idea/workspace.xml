@@ -161,7 +161,7 @@
       <workItem from="1785723733447" duration="2879000" />
       <workItem from="1785807159376" duration="2525000" />
       <workItem from="1786340572367" duration="1383000" />
-      <workItem from="1786690159145" duration="311000" />
+      <workItem from="1786690159145" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -515,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786690360824</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="feature [DEVEL-8898] User Story — Online Application for Financial Assistance[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1786690481921</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1786690481921</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
