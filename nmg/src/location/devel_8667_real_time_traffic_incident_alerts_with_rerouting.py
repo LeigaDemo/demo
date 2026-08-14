@@ -60,3 +60,5 @@ if __name__ == "__main__":
     smoke()
 
 # sync_probe: refresh Leiga Commit Log for [DEVEL-8667]
+
+# leiga_plugins_refresh: DEVEL-8667 @ 2026-08-04T02:20Z
