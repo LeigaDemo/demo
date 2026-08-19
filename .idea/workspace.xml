@@ -163,15 +163,8 @@
       <workItem from="1785807159376" duration="2525000" />
       <workItem from="1786340572367" duration="1383000" />
       <workItem from="1786690159145" duration="3938000" />
-      <workItem from="1786949945803" duration="809000" />
-    </task>
-    <task id="LOCAL-00002" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769759986384</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1769759986384</updated>
+      <workItem from="1786949945803" duration="3692000" />
+      <workItem from="1787121831335" duration="33000" />
     </task>
     <task id="LOCAL-00003" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -557,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786950306020</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="feature [DEVEL-8747] [NMG] Topic subscription and keyword alert preferences">
+      <option name="closed" value="true" />
+      <created>1786950766478</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1786950766478</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
