@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-8747] [NMG] Topic subscription and keyword alert preferences">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-8898] User Story — Online Application for Financial Assistance[DC_Story]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -164,15 +164,7 @@
       <workItem from="1786340572367" duration="1383000" />
       <workItem from="1786690159145" duration="3938000" />
       <workItem from="1786949945803" duration="3692000" />
-      <workItem from="1787121831335" duration="33000" />
-    </task>
-    <task id="LOCAL-00003" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769760009077</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1769760009077</updated>
+      <workItem from="1787121831335" duration="2688000" />
     </task>
     <task id="LOCAL-00004" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -558,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786950766478</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="feature [DEVEL-8898] User Story — Online Application for Financial Assistance[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1787121889828</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1787121889828</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,9 +588,9 @@
     <MESSAGE value="fix [DEVEL-6751] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="fix [DEVEL-6922] Test Case Failed: [Demo] Create new Lead and Verify - Negative" />
     <MESSAGE value="feature [DEVEL-8667] [NMG] Real-time traffic incident alerts with rerouting" />
-    <MESSAGE value="feature [DEVEL-8898] User Story — Online Application for Financial Assistance[DC_Story]" />
     <MESSAGE value="feature [DEVEL-8747] [NMG] Topic subscription and keyword alert preferences" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-8747] [NMG] Topic subscription and keyword alert preferences" />
+    <MESSAGE value="feature [DEVEL-8898] User Story — Online Application for Financial Assistance[DC_Story]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-8898] User Story — Online Application for Financial Assistance[DC_Story]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
