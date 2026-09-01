@@ -2,8 +2,8 @@
 
 Leiga Sprint 2609 · Developer Center
 Type: Story (feature)
-Status at codegen: In Product Design
-Assignee: Mia (OS)
+Status at codegen: In QA
+Assignee: Queenie (QA)
 Epic: Mobile Apps - Reader Engagement
 Domain: reader
 
@@ -43,7 +43,7 @@ def implement_validate_editorial_dashboard_requirement(payload: dict[str, Any] |
         metrics={
             "domain": DOMAIN,
             "priority": 'Medium',
-            "estimate_point": 5,
+            "estimate_point": 3,
             "input_keys": sorted(payload.keys()),
         },
     )
