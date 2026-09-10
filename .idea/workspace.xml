@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-8965] User Story A1 — Online Application for Financial Assistance [DC_Story]">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-9177] 9/10 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,15 +164,7 @@
       <workItem from="1786690159145" duration="3938000" />
       <workItem from="1786949945803" duration="3692000" />
       <workItem from="1787121831335" duration="8190000" />
-      <workItem from="1789023594908" duration="112000" />
-    </task>
-    <task id="LOCAL-00006" summary="fix [DEVEL-6328] Test Case Failed: [ES-MX] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
-      <option name="closed" value="true" />
-      <created>1769760112446</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1769760112446</updated>
+      <workItem from="1789023594908" duration="176000" />
     </task>
     <task id="LOCAL-00007" summary="fix [DEVEL-6329] Test Case Failed: [EN] Negative - Product Comparison &amp; Validate the Shopping Cart Pricing">
       <option name="closed" value="true" />
@@ -559,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787196314326</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="feature [DEVEL-9177] 9/10 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1789023735630</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1789023735630</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,7 +592,8 @@
     <MESSAGE value="feature [DEVEL-8898] User Story — Online Application for Financial Assistance[DC_Story]" />
     <MESSAGE value="feature [DEVEL-8943] User Story A — Online Application for Financial Assistance [DC_Story]" />
     <MESSAGE value="feature [DEVEL-8965] User Story A1 — Online Application for Financial Assistance [DC_Story]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-8965] User Story A1 — Online Application for Financial Assistance [DC_Story]" />
+    <MESSAGE value="feature [DEVEL-9177] 9/10 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-9177] 9/10 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
