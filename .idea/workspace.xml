@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-9177] 9/10 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-5557] [NMG] Payment Platform Authorization and Integration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -166,15 +166,7 @@
       <workItem from="1786949945803" duration="3692000" />
       <workItem from="1787121831335" duration="8190000" />
       <workItem from="1789023594908" duration="1155000" />
-      <workItem from="1789698150654" duration="663000" />
-    </task>
-    <task id="LOCAL-00008" summary="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario">
-      <option name="closed" value="true" />
-      <created>1770796806108</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1770796806108</updated>
+      <workItem from="1789698150654" duration="1950000" />
     </task>
     <task id="LOCAL-00009" summary="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario">
       <option name="closed" value="true" />
@@ -560,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789023777724</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="feature [DEVEL-5557] [NMG] Payment Platform Authorization and Integration">
+      <option name="closed" value="true" />
+      <created>1789703800403</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1789703800403</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +595,8 @@
     <MESSAGE value="feature [DEVEL-8943] User Story A — Online Application for Financial Assistance [DC_Story]" />
     <MESSAGE value="feature [DEVEL-8965] User Story A1 — Online Application for Financial Assistance [DC_Story]" />
     <MESSAGE value="feature [DEVEL-9177] 9/10 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-9177] 9/10 PM: we need to build a duty free eCommerce mobile app with Location Based Services, in Hong Kong Island &amp;amp; Kowloon, to enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer need delivery to locations outside of Hong[DC_Story]" />
+    <MESSAGE value="feature [DEVEL-5557] [NMG] Payment Platform Authorization and Integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-5557] [NMG] Payment Platform Authorization and Integration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
