@@ -3,7 +3,7 @@
 Leiga Sprint 2609 · Developer Center
 Type: Story (feature)
 Status at codegen: In QA
-Assignee: Queenie (QA)
+Assignee: Richard (R&D)
 Epic: Mobile Apps - Reader Engagement
 Domain: reader
 
