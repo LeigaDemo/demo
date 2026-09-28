@@ -3,7 +3,7 @@
 Leiga Sprint 2609 · Developer Center
 Type: Story (feature)
 Status at codegen: UAT
-Assignee: Evelyn (Dev)
+Assignee: Mia (OS)
 Epic: Mobile Apps - Reader Engagement
 Domain: reader
 
