@@ -2,7 +2,7 @@
 
 Leiga Sprint 2609 · Developer Center
 Type: Bug (bugfix)
-Status at codegen: In Fix
+Status at codegen: Done
 Assignee: JING (Marketing)
 Epic: Mobile Apps - Reader Engagement
 Domain: fixes
