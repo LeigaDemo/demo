@@ -2,8 +2,8 @@
 
 Leiga Sprint 2610 · Developer Center
 Type: Story (feature)
-Status at codegen: In UI Design
-Assignee: Lucas (R&D)
+Status at codegen: In QA
+Assignee: Evelyn (Dev)
 Epic: Digital Subscription - Membership Growth
 Domain: subscription
 
