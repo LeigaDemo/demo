@@ -3,7 +3,7 @@
 Leiga Sprint 2610 · Developer Center
 Type: Story (feature)
 Status at codegen: In QA
-Assignee: Queenie (QA)
+Assignee: Richard (R&D)
 Epic: Location-Based Service - Local Discovery
 Domain: location
 
