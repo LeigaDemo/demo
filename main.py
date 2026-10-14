@@ -9,8 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.asdf
 
 
-# Press the green button in the gutter to run the ascript. testing Mar 23, fix bug fixed on SEP 24PMPM
-if __name__ == '__main__':
+# Press the green button in the gutter to run the ascript. testing Mar 23, fix bug fixed on SEP 24PMPMasdfa
+
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
