@@ -2,8 +2,8 @@
 
 Leiga Sprint 2610 · Developer Center
 Type: Story (feature)
-Status at codegen: In Dev
-Assignee: JING (Marketing)
+Status at codegen: In QA
+Assignee: Evelyn (Dev)
 Epic: —
 Domain: location
 
