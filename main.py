@@ -9,7 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.asdf
 
 
-# Press the green button in the gutter to run the ascript. testing Mar 23, fix bug fixed on SEP 24PMPMasdfa
+# Press the green button in the gutter to run the ascript. testing Mar 23, fix bug fixed on OCT 16PM
 
     print_hi('PyCharm')
 

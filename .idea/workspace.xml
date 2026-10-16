@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-9270] 9/24PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island and Kowloon , we need to apply a delivery fee of $15.[DC_Story]">
+    <list default="true" id="ae58af25-4879-417f-81f2-1b85a9b3b50f" name="Changes" comment="feature [DEVEL-10522] 10/14 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island and Kowloon , we need to apply a delivery fee of $15.[DC_Story]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,15 +169,8 @@
       <workItem from="1789698150654" duration="2625000" />
       <workItem from="1789963364326" duration="8818000" />
       <workItem from="1790137295074" duration="9042000" />
-      <workItem from="1791819253094" duration="7756000" />
-    </task>
-    <task id="LOCAL-00012" summary="feature [DEVEL-6471] [2/11]: We need to develop a MPF portfolio recommendation app that can based on a MPF member’s input on his current portfolio, analyze the current MPF portfolio’s historic returns and expenses. Based on the MPF member’s risk appetite &amp;amp; retirement goals, recommend an set of 3 different scenario">
-      <option name="closed" value="true" />
-      <created>1770797866664</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1770797866664</updated>
+      <workItem from="1791819253094" duration="9811000" />
+      <workItem from="1792130066646" duration="757000" />
     </task>
     <task id="LOCAL-00013" summary="feature [DEVEL-6481] 2/11 PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of San Francisco, we need to apply a delivery fee of $50.[DC_Story]">
       <option name="closed" value="true" />
@@ -562,7 +556,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790231383040</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="feature [DEVEL-10522] 10/14 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island and Kowloon , we need to apply a delivery fee of $15.[DC_Story]">
+      <option name="closed" value="true" />
+      <created>1791945024382</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1791945024382</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +602,8 @@
     <MESSAGE value="feature [DEVEL-5557] [NMG] Payment Platform Authorization and Integration" />
     <MESSAGE value="feature [DEVEL-9223] 9/18: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Sydney and Melbourne urban areas, we need to apply a delivery fee of $15, due to[DC_Story]" />
     <MESSAGE value="feature [DEVEL-9270] 9/24PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island and Kowloon , we need to apply a delivery fee of $15.[DC_Story]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-9270] 9/24PM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island and Kowloon , we need to apply a delivery fee of $15.[DC_Story]" />
+    <MESSAGE value="feature [DEVEL-10522] 10/14 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island and Kowloon , we need to apply a delivery fee of $15.[DC_Story]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature [DEVEL-10522] 10/14 AM: we need an eCommerce mobile app with Location Based Services enabled so that our product recommendation can be ranked based on shortest distance to the customer. And if the customer is outside of Hong Kong Island and Kowloon , we need to apply a delivery fee of $15.[DC_Story]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
