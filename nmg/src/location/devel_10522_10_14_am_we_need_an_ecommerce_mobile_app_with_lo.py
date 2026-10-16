@@ -4,7 +4,7 @@ Leiga Sprint 2610 · Developer Center
 Type: Story (feature)
 Status at codegen: In QA
 Assignee: Evelyn (Dev)
-Epic: —
+Epic: Location-Based Service - Local Discovery
 Domain: location
 
 Synced to Leiga via commit/PR messages containing [DEVEL-10522].
@@ -43,7 +43,7 @@ def implement_10_14_am_we_need_an_ecommerce_mobile_app(payload: dict[str, Any] |
         metrics={
             "domain": DOMAIN,
             "priority": None,
-            "estimate_point": None,
+            "estimate_point": 5,
             "input_keys": sorted(payload.keys()),
         },
     )
