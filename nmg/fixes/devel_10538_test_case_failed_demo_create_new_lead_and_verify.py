@@ -2,7 +2,7 @@
 
 Leiga Sprint 2610 · Developer Center
 Type: Bug (bugfix)
-Status at codegen: In Fix
+Status at codegen: To Be Deploy
 Assignee: JING (Marketing)
 Epic: —
 Domain: fixes
