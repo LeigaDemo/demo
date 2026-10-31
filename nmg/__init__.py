@@ -1,3 +1,3 @@
-"""NMG demo package synced from Leiga Sprint 2608."""
+"""NMG demo package synced from Leiga Sprint 2611."""
 
-__version__ = "2608.0.0"
+__version__ = "2611.0.0"
