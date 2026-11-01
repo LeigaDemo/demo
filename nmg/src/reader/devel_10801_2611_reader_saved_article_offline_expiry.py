@@ -2,7 +2,7 @@
 
 Leiga Sprint 2611 · Developer Center
 Type: Story (feature)
-Status at codegen: In Product Design
+Status at codegen: In QA
 Assignee: Mia (OS)
 Epic: Mobile Apps - Reader Engagement
 Domain: reader
