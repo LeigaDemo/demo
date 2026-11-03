@@ -3,7 +3,7 @@
 Leiga Sprint 2611 · Developer Center
 Type: Story (feature)
 Status at codegen: In QA
-Assignee: Saddie (HB)
+Assignee: Richard (R&D)
 Epic: Mobile Apps - Reader Engagement
 Domain: reader
 
