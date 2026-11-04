@@ -42,7 +42,7 @@ def fix_test_case_failed_demo_create_new_lead_an(payload: dict[str, Any] | None 
         detail="Applied bugfix stub for Test Case Failed: [Demo] Create new Lead and Verify - Negative",
         metrics={
             "domain": DOMAIN,
-            "priority": 'Highest',
+            "priority": 'High',
             "estimate_point": None,
             "input_keys": sorted(payload.keys()),
         },
