@@ -2,8 +2,8 @@
 
 Leiga Sprint 2611 · Developer Center
 Type: Story (feature)
-Status at codegen: In UI Design
-Assignee: JING (Marketing)
+Status at codegen: In QA
+Assignee: Queenie (QA)
 Epic: Location-Based Service - Local Discovery
 Domain: location
 
@@ -42,7 +42,7 @@ def implement_2611_lbs_gps_consent_retention_and_user(payload: dict[str, Any] | 
         detail="Applied feature stub for 2611 lbs: GPS consent, retention, and user control",
         metrics={
             "domain": DOMAIN,
-            "priority": 'Highest',
+            "priority": 'Medium',
             "estimate_point": 5,
             "input_keys": sorted(payload.keys()),
         },
