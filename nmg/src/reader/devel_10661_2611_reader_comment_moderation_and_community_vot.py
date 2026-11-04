@@ -42,7 +42,7 @@ def implement_2611_reader_comment_moderation_and_commu(payload: dict[str, Any] |
         detail="Applied feature stub for 2611 reader: Comment moderation and community voting",
         metrics={
             "domain": DOMAIN,
-            "priority": 'Highest',
+            "priority": 'Low',
             "estimate_point": 3,
             "input_keys": sorted(payload.keys()),
         },
