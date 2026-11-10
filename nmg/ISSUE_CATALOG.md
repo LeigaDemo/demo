@@ -9,4 +9,4 @@
 | DEVEL-10646 | Story | reader | `nmg/src/reader/devel_10646_2611_reader_audio_article_player_playback_contro.py` | In QA |
 | DEVEL-10661 | Story | reader | `nmg/src/reader/devel_10661_2611_reader_comment_moderation_and_community_vot.py` | In QA |
 | DEVEL-10666 | Story | reader | `nmg/src/reader/devel_10666_2611_reader_dark_mode_and_accessibility_audit.py` | In QA |
-| DEVEL-10686 | Story | location | `nmg/src/location/devel_10686_2611_lbs_cross_harbour_route_warning.py` | In QA |
+| DEVEL-10671 | Story | reader | `nmg/src/reader/devel_10671_2611_reader_share_to_social_with_utm_tracking.py` | In Product Design |
