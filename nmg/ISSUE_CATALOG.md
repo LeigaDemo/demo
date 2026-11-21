@@ -7,6 +7,6 @@
 | DEVEL-10626 | Story | reader | `nmg/src/reader/devel_10626_2611_reader_offline_reading_queue_drain_on_poor.py` | In QA |
 | DEVEL-10631 | Story | reader | `nmg/src/reader/devel_10631_2611_reader_reader_font_and_theme_persistence_ac.py` | In QA |
 | DEVEL-10636 | Story | reader | `nmg/src/reader/devel_10636_2611_reader_article_reading_progress_sync.py` | In QA |
-| DEVEL-10641 | Story | reader | `nmg/src/reader/devel_10641_2611_reader_bookmark_folders_and_cross_device_sy.py` | In Product Design |
+| DEVEL-10641 | Story | reader | `nmg/src/reader/devel_10641_2611_reader_bookmark_folders_and_cross_device_sy.py` | In QA |
 | DEVEL-10646 | Story | reader | `nmg/src/reader/devel_10646_2611_reader_audio_article_player_playback_contro.py` | In QA |
 | DEVEL-10651 | Story | reader | `nmg/src/reader/devel_10651_2611_reader_breaking_news_push_quiet_hours.py` | In QA |
